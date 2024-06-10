@@ -1,16 +1,16 @@
-## Hi there 👋
+### boas vindas ao meu perfil
 
-<!--
-**nicolas43m/nicolas43m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é nicolas marcelo
 
-Here are some ideas to get you started:
+ -estou estudando na [alura ](https://www.alura.com.br)
+ 
+ -estou me desenvolvendo na linguagem javascript
+ 
+ -ultilizo este espaço para minha organização e compartilhamento dos meus projetos e desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entra em contato comigo
+
+0000108356125xsp@al.educacao.sp.gov.br
+
+@nicolas43m
+![](https://media.tenor.com/E05T13qDs5IAAAAi/confedera%C3%A7%C3%A3o-brasileira-de-futebol-copa-america.gif)
